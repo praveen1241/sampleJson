@@ -1,0 +1,39 @@
+{
+  "status": 200,
+  "message": "OK",
+  "response": [
+    {
+      "id": "1",
+      "label": "John Smith",
+      "value": [
+        {
+          "name": "employee_id",
+          "value": "103150",
+          "Phone Number":"080021492"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "Mary Jane",
+      "value": [
+        {
+          "name": "employee_id",
+          "value": "102046",
+          "Phone Number":"080022492"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "label": "Kundan Ramisetti",
+      "value": [
+        {
+          "name": "employee_id",
+          "value": "102891",
+          "Phone Number":"080023492"       
+        }
+      ]
+    }
+  ]
+}
