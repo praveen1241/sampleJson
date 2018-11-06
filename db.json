@@ -1,7 +1,4 @@
-{
-  "status": 200,
-  "message": "OK",
-  "response": [
+
     {
       "id": "1",
       "label": "John Smith",
@@ -33,7 +30,4 @@
           "value": "102891",
           "Phone Number":"080023492"       
         }
-      ]
-    }
-  ]
-}
+     
